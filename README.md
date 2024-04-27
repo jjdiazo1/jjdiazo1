@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning JavaScript and Apple Script
 - 👯 I’m looking to collaborate on Obsidian Plugins and Alfred Workflows
-- ⚡ Fun fact: I love Jazz and Rock, and I love [rating music](https://rateyourmusic.com/~whosjuanjo)
+- ⚡ Fun fact: I love Jazz and Rock, and I [rate music](https://rateyourmusic.com/~whosjuanjo)
   
 <!--
 
