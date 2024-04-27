@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning JavaScript and Apple Script
 - 👯 I’m looking to collaborate on Obsidian Plugins and Alfred Workflows
 - ⚡ Fun fact: I love Jazz and Rock, and I [rate music](https://rateyourmusic.com/~whosjuanjo)
+
+<div>
+<a href="https://linktr.ee/whosjuanjo">
+<img src="https://img.shields.io/badge/Linktree-my_Linktree" alt="Check my Linktree">
+</a>
   
 <!--
 
