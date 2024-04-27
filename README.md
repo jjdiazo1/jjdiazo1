@@ -1,6 +1,8 @@
 ### Hi 👋
 
-[![Juanajo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjdiazo1)](https://github.com/anuraghazra/github-readme-stats)
+[![Juanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjdiazo1)](https://github.com/anuraghazra/github-readme-stats)
+
+<image src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdiazo1&layout=compact&show_icons=true" />
 
 <!--
 
