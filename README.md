@@ -10,7 +10,7 @@
 
 <div>
 <a href="https://linktr.ee/whosjuanjo">
-<img src="https://img.shields.io/badge/Linktree-my_Linktree" alt="Check my Linktree">
+<img src="https://img.shields.io/badge/More_here:-Linktree-blue" alt="Check my Linktree">
 </a>
   
 <!--
