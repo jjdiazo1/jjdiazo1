@@ -5,7 +5,7 @@
 <image src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdiazo1&layout=compact&show_icons=true" />
 
 - 🌱 I’m currently learning JavaScript and Apple Script
-- 👯 I’m looking to collaborate on Obsidian Plugins and Alfred Workflows
+- 👯 I’m looking to collaborate on Obsidian Plugins, Alfred Workflows and anything iOS/MacOS automation related.
 - ⚡ Fun fact: I love Jazz and Rock, and I [rate music](https://rateyourmusic.com/~whosjuanjo)
 
 <div>
