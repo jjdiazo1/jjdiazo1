@@ -1,4 +1,4 @@
-[![Hi! I'm Juanjo](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Hi! I'm Juanjo](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Juanjo;Welcome+here)](https://git.io/typing-svg)
 
 
 [![Juanjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjdiazo1)](https://github.com/anuraghazra/github-readme-stats)
