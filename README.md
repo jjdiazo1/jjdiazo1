@@ -4,12 +4,12 @@
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdiazo1&layout=compact&show_icons=true" />
 
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on anything iOS/MacOS automation related: Obsidian Plugins, Alfred Workflows, etc.
+- 🌱 I’m currently perfecting my Japanese and going deep into machine learning
+- 👯 I’m looking to collaborate on anything iOS/MacOS automation related: Obsidian Plugins, Alfred Workflows, iOS shortcuts etc.
 - ⚡ Fun fact: I love Jazz and Rock, and I [rate music](https://rateyourmusic.com/~whosjuanjo)
 
 <div>
-<a href="https://linktr.ee/whosjuanjo">
+<a href="https://linktr.ee/azanohi">
 <img src="https://img.shields.io/badge/More_here:-Linktree-blue" alt="Check my Linktree">
 </a>
   
