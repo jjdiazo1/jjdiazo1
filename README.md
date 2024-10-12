@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=000000&random=false&width=435&lines=Hi!+I'm+Juanjo)](https://git.io/typing-svg)
-
 <image src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdiazo1&layout=compact&show_icons=true" />
 
 - 🌱 I’m currently perfecting my Japanese and going deep into machine learning
