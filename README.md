@@ -2,8 +2,6 @@
 
 <image src="https://github-readme-stats.vercel.app/api/top-langs?username=jjdiazo1&layout=compact&show_icons=true" />
 
-- 🌱 I’m currently perfecting my Japanese and going deep into machine learning
-- 👯 I’m looking to collaborate on anything iOS/MacOS automation related: Obsidian Plugins, Alfred Workflows, iOS shortcuts etc.
 - ⚡ Fun fact: I love Jazz and Rock, and I [rate music](https://rateyourmusic.com/~whosjuanjo)
 
 Visit my website! www.juanjodiaz.info
